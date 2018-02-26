@@ -1,0 +1,259 @@
+#first {
+  height: 40px;
+  background: #f69686; }
+  #first .w {
+    background: #f69686; }
+    #first .w p {
+      color: #fff60c;
+      font-size: 18px;
+      line-height: 40px;
+      text-align: center; }
+
+#top_login {
+  height: 28px; }
+  #top_login .sele {
+    width: 226px;
+    height: 28px;
+    margin-top: 5px;
+    float: left; }
+
+#top_login ul {
+  height: 28px;
+  line-height: 28px; }
+  #top_login ul li {
+    float: left;
+    margin-left: 7px;
+    margin-right: 7px; }
+    #top_login ul li a {
+      border-right: 1px solid #ccc;
+      height: 14px;
+      padding-right: 7px; }
+  #top_login ul li:nth-of-type(5) a {
+    border-right: none; }
+
+#top_logo {
+  height: 76px;
+  background: #93846f; }
+  #top_logo .w {
+    height: 76px;
+    position: relative; }
+    #top_logo .w h2 {
+      height: 76px;
+      width: 245px;
+      position: absolute; }
+      #top_logo .w h2 img {
+        width: 245px;
+        height: 47px;
+        margin-top: 20px; }
+    #top_logo .w .r {
+      width: 255px;
+      height: 69px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-top: 3px; }
+      #top_logo .w .r img {
+        margin-top: 8px;
+        margin-left: 12px; }
+      #top_logo .w .r span {
+        float: right;
+        line-height: 18px;
+        color: #fff; }
+      #top_logo .w .r span:nth-of-type(1) {
+        margin-top: 10px; }
+      #top_logo .w .r span:nth-of-type(2) {
+        position: absolute;
+        right: 0; }
+      #top_logo .w .r span:nth-of-type(3) {
+        color: #dac3b1;
+        font-weight: bold; }
+
+#top_nav {
+  height: 38px;
+  background: #b8afa3; }
+  #top_nav ul {
+    line-height: 38px;
+    margin-left: 4px; }
+    #top_nav ul li {
+      margin-left: 27px; }
+      #top_nav ul li a {
+        color: #fff; }
+    #top_nav ul li:nth-of-type(10) a {
+      color: #e04000;
+      font-weight: bold; }
+  #top_nav .r {
+    width: 85px;
+    height: 15px;
+    margin-right: 40px;
+    margin-top: 10px; }
+
+#banner {
+  height: 48px;
+  overflow: hidden;
+  background: #ccc; }
+  #banner .search {
+    height: 30px;
+    margin-left: 20px;
+    overflow: hidden; }
+    #banner .search input.text {
+      font-size: 11px;
+      line-height: 13px;
+      color: #93846f;
+      width: 200px;
+      height: 14px; }
+    #banner .search .select_pro {
+      font-size: 12px;
+      line-height: 13px;
+      color: #93846f;
+      width: 200px;
+      height: 20px; }
+    #banner .search .btn {
+      width: 42px;
+      height: 19px;
+      line-height: 19px;
+      background: #b8afa3;
+      border-radius: 3px;
+      border: 1px solid #e0e0e0;
+      color: #fff; }
+    #banner .search span {
+      margin-left: 16px; }
+    #banner .search div.area {
+      margin-top: 5px;
+      margin-right: 21px; }
+  #banner ul.nav {
+    margin-left: 20px; }
+    #banner ul.nav li {
+      margin-right: 20px; }
+      #banner ul.nav li a {
+        color: #666666; }
+      #banner ul.nav li a:hover {
+        color: #990033; }
+
+/* head end */
+/* bottom  start */
+#infor {
+  width: 930px;
+  height: 150px;
+  background: #fff;
+  overflow: hidden; }
+  #infor .news {
+    width: 900px;
+    height: 86px;
+    background: linear-gradient(to left, #fff, #f0f0f0, #fff);
+    margin-top: 20px;
+    margin-left: 20px;
+    border-top: 1px dashed #ccc;
+    border-bottom: 1px dashed #ccc; }
+    #infor .news ul {
+      margin-top: 13px;
+      text-align: right; }
+    #infor .news ul:nth-of-type(1) {
+      width: 148px; }
+    #infor .news ul:nth-of-type(2) {
+      width: 86px; }
+    #infor .news ul:nth-of-type(3) {
+      width: 80px; }
+    #infor .news ul:nth-of-type(4) {
+      width: 84px;
+      color: #dd7f95; }
+    #infor .news ul:nth-of-type(5) {
+      width: 150px;
+      padding-left: 20px;
+      text-align: left; }
+    #infor .news ul:nth-of-type(6) {
+      padding-left: 20px;
+      text-align: left; }
+  #infor .email {
+    height: 30px;
+    overflow: hidden; }
+    #infor .email p {
+      display: inline-block;
+      margin-left: 130px;
+      color: #93846f;
+      line-height: 30px; }
+      #infor .email p span {
+        font-weight: bold; }
+    #infor .email .e_mail {
+      width: 270px;
+      height: 17px;
+      border: 1px dashed #93846f;
+      padding-left: 10px; }
+    #infor .email .btn {
+      width: 15px;
+      height: 15px;
+      margin-top: 10px;
+      display: inline-block;
+      background: #fff;
+      border: 1px dashed #93846f;
+      cursor: pointer; }
+      #infor .email .btn span {
+        display: inline-block;
+        border-top: 4px solid #fff;
+        border-left: 4px solid #93846f;
+        border-bottom: 4px solid #fff;
+        margin-left: 6px; }
+
+footer {
+  height: 300px;
+  background: #fff;
+  overflow: hidden; }
+  footer .bottom {
+    height: 101px;
+    overflow: hidden; }
+    footer .bottom div:nth-of-type(1) {
+      width: 625px;
+      height: 101px;
+      border-right: 1px solid #ccc;
+      margin-left: 80px;
+      margin-top: 10px; }
+      footer .bottom div:nth-of-type(1) p {
+        text-align: left; }
+      footer .bottom div:nth-of-type(1) img {
+        margin-top: 10px; }
+    footer .bottom div:nth-of-type(2) {
+      margin-left: 25px; }
+  footer .bottom1 {
+    height: 28px;
+    width: 28px;
+    margin: 34px auto; }
+    footer .bottom1 img {
+      margin-top: 34px; }
+  footer p {
+    text-align: center;
+    line-height: 18px; }
+    footer p a {
+      color: #666; }
+
+#last {
+  height: 30px;
+  background: #93846f; }
+  #last div.l p {
+    color: #fff;
+    font-weight: bold;
+    line-height: 30px; }
+  #last div.r {
+    height: 22px;
+    width: 294px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-top: 3px;
+    margin-right: 5px; }
+    #last div.r img {
+      margin-left: 5px;
+      margin-top: 3px; }
+    #last div.r span {
+      font-weight: bold;
+      line-height: 20px;
+      margin-left: 10px; }
+      #last div.r span a {
+        color: #fff; }
+  #last span {
+    font-weight: bold;
+    line-height: 30px;
+    margin-right: 20px; }
+    #last span a {
+      color: #fff;
+      margin-right: 10px;
+      border-right: 1px solid #ccc;
+      padding-right: 10px; }
+    #last span a:nth-of-type(2) {
+      border: none; }
